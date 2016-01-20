@@ -1,5 +1,5 @@
 #Youtube API Demo
-Youtube API demo app for android. I followed this tutorial to create this app: http://code.tutsplus.com/tutorials/create-a-youtube-client-on-android--cms-22858 
+Youtube API demo app for android. In this app, user will able to search video and then they can play the video.    I followed this tutorial to create this app: http://code.tutsplus.com/tutorials/create-a-youtube-client-on-android--cms-22858 
 
 ## Usage 
 You can download and import the code to Android Studio. And run on Device or Emulator. If you want to make a production copy, you need to register your app.
